@@ -1891,6 +1891,9 @@ textarea.form-input::-webkit-resizer {
   .blog-banner-box {
     height: 230px;
   }
+  .d-ilang {
+    display: none;
+  }
 }
 
 /**
@@ -2028,5 +2031,9 @@ textarea.form-input::-webkit-resizer {
 
   .timeline-text {
     max-width: 700px;
+  }
+
+  .d-ilang {
+    display: none;
   }
 }
