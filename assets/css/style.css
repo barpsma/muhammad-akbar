@@ -1284,10 +1284,6 @@ textarea.form-input::-webkit-resizer {
   transition: var(--transition-1);
 }
 
-.d-ilang {
-  display: none;
-}
-
 .form-btn::before {
   content: "";
   position: absolute;
