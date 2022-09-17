@@ -1348,9 +1348,6 @@ textarea.form-input::-webkit-resizer {
   .blog-banner-box {
     height: auto;
   }
-  .d-ilang {
-    display: none;
-  }
 }
 
 /**
@@ -1673,10 +1670,6 @@ textarea.form-input::-webkit-resizer {
     padding: 16px 20px;
   }
 
-  .d-ilang {
-    display: none;
-  }
-
   .form-btn ion-icon {
     font-size: 18px;
   }
@@ -1698,10 +1691,6 @@ textarea.form-input::-webkit-resizer {
 
   .has-scrollbar::-webkit-scrollbar-button {
     width: 100px;
-  }
-
-  .d-ilang {
-    display: none;
   }
 
   /**
@@ -1898,9 +1887,6 @@ textarea.form-input::-webkit-resizer {
   .blog-banner-box {
     height: 230px;
   }
-  .d-ilang {
-    display: none;
-  }
 }
 
 /**
@@ -2038,9 +2024,5 @@ textarea.form-input::-webkit-resizer {
 
   .timeline-text {
     max-width: 700px;
-  }
-
-  .d-ilang {
-    display: none;
   }
 }
