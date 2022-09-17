@@ -1693,6 +1693,10 @@ textarea.form-input::-webkit-resizer {
     width: 100px;
   }
 
+  .d-ilang {
+    display: none;
+  }
+
   /**
    * SIDEBAR
    */
